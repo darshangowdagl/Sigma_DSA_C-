@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "plyconfig.json": "jsonc",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "limits": "cpp",
+    "algorithm": "cpp",
+    "ostream": "cpp",
+    "set": "cpp",
+    "bitset": "cpp",
+    "__tree": "cpp",
+    "format": "cpp",
+    "stack": "cpp",
+    "string": "cpp"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "files.autoSave": "afterDelay"
+}
